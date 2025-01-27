@@ -6,7 +6,7 @@ Bem-vindo ao repositório do **Resort Animal**, uma plataforma dedicada a oferec
 
 ## 🖼️ Visão Geral
 
-![Resort Animal]([https://link-da-imagem.com/imagem.png](https://ibb.co/XYbby6P))
+![Resort Animal]([https://pt-br.imgbb.com/])
 
 A página oferece:
 - **Serviços Especiais** para o bem-estar do seu pet.
